@@ -13,7 +13,7 @@ A computer vision-based Python project that detects vehicles in a video feed, ca
 
 ---
 
-## 🚀 Features
+## 🚀 Features...
 
 - Detects cars in video using pre-trained Haar Cascade Classifier.
 - Calculates car speed between two points.
